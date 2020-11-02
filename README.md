@@ -1,3 +1,3 @@
 # C---Master
 C# projects
-- GradeBook project that allows you to interact with with the console, write to a file, and I also uploaded the unit test used in making the project.
+- GradeBook project that allows you to interact with the console, write grades to a file, and includes the unit test used in making this project.
